@@ -1,0 +1,35 @@
+FILES REQUIRED:
+
+1. Main.java-(JAVA File)
+2. Main.class-(CLASS File)
+
+METHODS TO RUN PROGRAM:
+
+1. (Through Command Prompt on Windows)
+	
+	- Open CMD.
+
+	- Navigate to the directory where you have stored the above two files (Main.java, Main.class)
+	  e.g( cd C:\Users\coab\Desktop )
+
+	- Run Main.java-(JAVA File)
+	  e.g using the command( java Main ).
+	  (the message "Enter Jug Input:         eg. 2,3 or 4,5,1" should appear in the console)
+
+	- Enter numbers, seperated by commas, with no spaces to represent the capacities of the jugs, then press enter.
+	  e.g type( 4,5,1 ) then press enter.
+	  The program can handle 2 or more jugs. For example, for 4 jugs with capacities A=1, B=2, C=3, D=4 you would type( 1,2,3,4 )then press enter.
+
+	- Read the result that the console outputs.
+
+2. (Through an IDE)
+	
+	- Open Main.java-(JAVA File) using an IDE of your choice.
+
+	- Compile and run the program.
+
+	- Enter numbers, seperated by commas, with no spaces to represent the capacities of the jugs, then press enter.
+	  e.g type( 4,5,1 ) then press enter.
+	  The program can handle 2 or more jugs. For example, for 4 jugs with capacities A=1, B=2, C=3, D=4 you would type( 1,2,3,4 )then press enter.
+
+	- Read the result that the console outputs.
